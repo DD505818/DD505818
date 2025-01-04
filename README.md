@@ -15,8 +15,6 @@
 
 - 📫 **Reach Me At:**  
   - Email: [cupidai222@gmail.com]  
-  - LinkedIn: [Your LinkedIn Profile Link]  
-  - Twitter: [@YourTwitterHandle]  
 
 - 😄 **Who I Am:**  
   A relentless optimist driven by the philosophy that progress is infinite. I blend technical expertise with a deep understanding of human behavior, creating systems that align innovation with purpose.  
